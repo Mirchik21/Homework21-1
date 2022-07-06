@@ -1,0 +1,15 @@
+C:\classwork\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework21-1.exe
+C:\classwork\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework21-1.deps.json
+C:\classwork\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework21-1.runtimeconfig.json
+C:\classwork\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework21-1.dll
+C:\classwork\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Homework21-1.pdb
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework21-1.csproj.AssemblyReference.cache
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework21-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework21-1.AssemblyInfoInputs.cache
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework21-1.AssemblyInfo.cs
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework21-1.csproj.CoreCompileInputs.cache
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework21-1.dll
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Homework21-1.dll
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework21-1.pdb
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Homework21-1.genruntimeconfig.cache
+C:\classwork\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Homework21-1.dll
